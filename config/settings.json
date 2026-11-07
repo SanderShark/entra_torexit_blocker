@@ -1,0 +1,10 @@
+{
+  "FeedUrl": "https://raw.githubusercontent.com/alireza-rezaee/tor-nodes/main/latest.exits.csv",
+  "DisplayNamePrefix": "Managed - Tor Exit Nodes",
+  "ChunkSize": 2000,
+  "MinimumExpectedIpCount": 100,
+  "MaximumAllowedChangePercent": 75,
+  "Trusted": false,
+  "CleanupObsoleteLocations": false,
+  "RequestTimeoutSeconds": 60
+}
